@@ -1,8 +1,36 @@
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+- company: Water.org
+  link: https://water.org/
+  job_title: International Accountant
+  dates: June 2016 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Using market-driven financial solutions to change lives with safe water.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Partners with the African and Latin American region to ensure that monthly financials are processed in an accurate and timely manner.
+
+    Performs internal audits of the African and Latin American offices. Assess office compliance with the policies and procedures laid out in Water.org’s internal foreign office accounting manual.
+
+    Drives operational efficiencies through automating manual processes, evaluating, and implementing software solutions that can replace and enhance these existing processes.
+      Notable Projects: Evaluating and implementing an expense reporting application and a timesheet application across offices in 7 different countries.
+
+    Assists the finance team with ad-hoc data analysis projects. Tasks include : data extraction, cleansing, creating flexible data models, data visualizations and insights using Power BI and Excel.
+      Notable Projects Include: Organizational Metrics Dashboard and Hours Reporting Analytics
+
+- company: State Street Bank
+  link: http://www.statestreet.com/home.html
+  jobs:
+    - title: Officer
+      dates: November 2015 - May 2016
+    - title: Senior Associate
+      dates: October 2014 - November 2015
+    - title: Fund Administrator, Associate II
+      dates: September 2013 - October 2014
+    - title: Accounting and Pricing Specialist I
+      dates: May 2012 - September 2013
+  description: |
+    As an Officer at State Street Bank, I Worked on high level projects requiring a detailed knowledge of State Street Banks’s accounting platform (PAM) which can require in depth analysis of the accounting treatment (STAT & GAAP) of different investment types including accounting on securitization of assets.
+
+    Used Microsoft Excel to automate and analyze data for monthly processing and reporting
+
+    Collaborated with internal clients in regards to monthly processing and various projects
+
+    
