@@ -5,14 +5,25 @@
   quote: >
    Using market-driven financial solutions to change lives with safe water.
   description: | # this will include new lines to allow paragraphs
-    Partners with the African and Latin American region to ensure that monthly financials are processed in an accurate and timely manner.
+<<<<<<< HEAD
+    - Partners with the African and Latin American region to ensure that monthly financials are processed in an accurate and timely manner.
 
-    Performs internal audits of the African and Latin American offices. Assess office compliance with the policies and procedures laid out in Water.org’s internal foreign office accounting manual.
+    - Performs internal audits of the African and Latin American offices. Assess office compliance with the policies and procedures laid out in Water.org’s internal foreign office accounting manual.
 
-    Drives operational efficiencies through automating manual processes, evaluating, and implementing software solutions that can replace and enhance these existing processes.
+    - Drives operational efficiencies through automating manual processes, evaluating, and implementing software solutions that can replace and enhance these existing processes.
       Notable Projects: Evaluating and implementing an expense reporting application and a timesheet application across offices in 7 different countries.
 
-    Assists the finance team with ad-hoc data analysis projects. Tasks include : data extraction, cleansing, creating flexible data models, data visualizations and insights using Power BI and Excel.
+    - Assists the finance team with ad-hoc data analysis projects. Tasks include : data extraction, cleansing, creating flexible data models, data visualizations and insights using Power BI and Excel.
+=======
+    * Partners with the African and Latin American region to ensure that monthly financials are processed in an accurate and timely manner.
+
+    * Performs internal audits of the African and Latin American offices. Assess office compliance with the policies and procedures laid out in Water.org’s internal foreign office accounting manual.
+
+    * Drives operational efficiencies through automating manual processes, evaluating, and implementing software solutions that can replace and enhance these existing processes.
+      Notable Projects: Evaluating and implementing an expense reporting application and a timesheet application across offices in 7 different countries.
+
+    * Assists the finance team with ad-hoc data analysis projects. Tasks include : data extraction, cleansing, creating flexible data models, data visualizations and insights using Power BI and Excel.
+>>>>>>> 81b75f464ac661ae443c790e5ad37c64db6156f1
       Notable Projects Include: Organizational Metrics Dashboard and Hours Reporting Analytics
 
 - company: State Street Bank
@@ -27,10 +38,16 @@
     - title: Accounting and Pricing Specialist I
       dates: May 2012 - September 2013
   description: |
-    As an Officer at State Street Bank, I Worked on high level projects requiring a detailed knowledge of State Street Banks’s accounting platform (PAM) which can require in depth analysis of the accounting treatment (STAT & GAAP) of different investment types including accounting on securitization of assets.
+<<<<<<< HEAD
+    - As an Officer at State Street Bank, I worked on high level projects requiring a detailed knowledge of State Street Banks’s accounting platform (PAM) which can require in depth analysis of the accounting treatment (STAT & GAAP) of different investment types including accounting on securitization of assets.
 
-    Used Microsoft Excel to automate and analyze data for monthly processing and reporting
+    - Used Microsoft Excel to automate and analyze data for monthly processing and reporting
 
-    Collaborated with internal clients in regards to monthly processing and various projects
+    - Collaborated with internal clients in regards to monthly processing and various projects
+=======
+    * As an Officer at State Street Bank, I worked on high level projects requiring a detailed knowledge of State Street Banks’s accounting platform (PAM) which can require in depth analysis of the accounting treatment (STAT & GAAP) of different investment types including accounting on securitization of assets.
 
-    
+    * Used Microsoft Excel to automate and analyze data for monthly processing and reporting
+
+    * Collaborated with internal clients in regards to monthly processing and various projects
+>>>>>>> 81b75f464ac661ae443c790e5ad37c64db6156f1
